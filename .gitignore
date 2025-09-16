@@ -78,4 +78,4 @@ dmypy.json
 
 # Project specific
 result/
-persistence/
+# persistence/ - 允许提交persistence目录，但排除其中的数据库文件
